@@ -1,0 +1,52 @@
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+.title {
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+    color: pink;
+}
+.Lasagna {
+    font-size: 25px;
+    color:violet;
+}
+.spaghetti {
+    font-size: 25px;
+    color: aqua;
+}
+.tiramisu {
+    font-size: 25px;
+    color:chartreuse;
+}
+.title_lasagna {
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px;
+    color:lightcoral;
+}
+img.lasagna_image {
+    display: block;
+    height: auto;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.semititlu {
+    color: lightcoral;
+    font-size: 25px;
+}
+.tm {
+    color:aquamarine;
+    padding-left: 20px;
+    padding-right: 500px;
+    margin: auto;
+}
+* {
+    borsder: solid blue;
+}
